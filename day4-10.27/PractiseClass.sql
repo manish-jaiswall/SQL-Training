@@ -1,6 +1,6 @@
 create database stored_procedure
 
-
+-- practise
 create table studenttb(s_id int NOT NULL, s_name varchar(20), course varchar(20),marks int, UNIQUE(s_id))
 
 insert into studenttb values (1001,'Reeta','Maths',40)
