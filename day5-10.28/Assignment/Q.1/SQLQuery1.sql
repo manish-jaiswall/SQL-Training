@@ -1,4 +1,4 @@
-use day4
+use day4  --s
 
 
 CREATE TABLE Pass_Information(
