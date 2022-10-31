@@ -43,4 +43,3 @@ RETURNS TABLE AS
   WHERE Account_Details.balance>@bal
 
  
-
